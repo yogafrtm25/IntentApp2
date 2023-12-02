@@ -8,6 +8,8 @@ Kelas : TI.22.A1
 
 Mata Kuliah : Pemrograman Mobile 
 
+Dosen : Donny Maulana, S.Kom., M.M.S.I.
+
 
 ## Tugas :
 ![tugas p10](https://github.com/syifaaurellia/IntentProject2/assets/115867244/439f806f-6f3d-4712-b9f4-c70c77f8a4e7)
